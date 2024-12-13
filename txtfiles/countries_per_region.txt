@@ -1,0 +1,7 @@
+Region, Country Count
+Africa, 26
+Asia, 24
+Europe, 21
+Americas, 16
+Oceania, 10
+Antarctic, 3
